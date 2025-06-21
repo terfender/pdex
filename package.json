@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "pdex",
   "main": "index.html",
   "pear": {
-    "name": "my-app",
+    "name": "pdex",
     "type": "desktop",
     "gui": {
       "backgroundColor": "#1F2430",
